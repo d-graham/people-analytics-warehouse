@@ -7,6 +7,6 @@ venv/
 
 # Data / local files you don't want tracked
 *.db
-*.sqlite3
+*.txt
 .DS_Store
 *.local.sh
